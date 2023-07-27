@@ -11,6 +11,9 @@ body {
     align-items: center;
     min-height: 100vh;
     background-image: url(../img/miror.jpg);
+   
+    background-size: contain;
+    background-position: center;
     
  
     
